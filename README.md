@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Vũ Lê Bảo Long</h1>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
-## Profile Views
+## Profile Views:
 
 <table>
     <tr>
@@ -34,15 +34,17 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vulebaolong&label=Profile%20views&color=0e75b6&style=flat" alt="vulebaolong" /> </p> -->
 
-## What I'm Doing
+## What I'm Doing:
 
 <img align="right" width="400" src="./asset/item4_4.gif" alt="coding" />
 
-- 🌱 I’m currently learning **Back End** - 💬 Ask me about **MEARN** - 📫 How to reach me **vulebaolong@gmail.com** - ⚡ Fun fact **I think I am funny** - 📄 Curriculum Vitae: **<a
-    href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing"
-    target="blank"
-    >EN</a
->** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="blank">VI</a>** ## Connect with me:
+-   🌱 I’m currently learning **Back End**
+-   💬 Ask me about **MEARN**
+-   📫 How to reach me **vulebaolong@gmail.com**
+-   ⚡ Fun fact **I think I am funny**
+-   📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="blank">VI</a>**
+
+## Connect with me:
 
 <p align="left">
     <a href="https://www.linkedin.com/in/vulebaolong/" target="blank"
