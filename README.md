@@ -55,7 +55,7 @@
 
 ## Languages, Tools I Know:
 
-<p align="left"> <a href="https://github.com/vulebaolong"><img src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,react,vue,redux,js,tailwind,bootstrap,python,vite,postman,docker,figma,firebase,github,git,photoshop,premiere,sass,css,html"> </a> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,react,vue,redux,js,tailwind,bootstrap,python,vite,postman,docker,figma,firebase,github,git,photoshop,premiere,sass,css,html"></p>
 
 ## Top Respositorys:
 
