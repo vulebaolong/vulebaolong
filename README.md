@@ -1,4 +1,6 @@
-![MasterHead](./asset//1600_480.gif)
+<!-- ![MasterHead](./asset//1600_480.gif) -->
+<p><img align="center"src="./asset//1600_480.gif"/></p>
+
 <!-- [![MasterHead](./asset//1600_480.gif)](trang web cá nhân) -->
 
 <p align="center">
