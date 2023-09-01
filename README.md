@@ -1,4 +1,5 @@
-[![MasterHead](./asset//1600_480.gif)](https://rishavchanda.io)
+![MasterHead](./asset//1600_480.gif)
+<!-- [![MasterHead](./asset//1600_480.gif)](trang web cá nhân) -->
 
 <p align="center">
     <img
