@@ -15,7 +15,7 @@
 
 -   ⚡ Fun fact **I think I am funny**
 
--   📄 Curriculum Vitae **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="blank">EN</a>** **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="blank">VI</a>**
+-   📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="blank">VI</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
