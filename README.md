@@ -86,10 +86,10 @@
     </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vulebaolong" alt="vulebaolong" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vulebaolong&theme=tokyonight" alt="vulebaolong" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vulebaolong&show_icons=true&locale=en&layout=compact" alt="vulebaolong" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vulebaolong&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vulebaolong" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vulebaolong&show_icons=true&locale=en" alt="vulebaolong" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vulebaolong&show_icons=true&locale=en&theme=tokyonight" alt="vulebaolong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vulebaolong&" alt="vulebaolong" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vulebaolong&&theme=tokyonight" alt="vulebaolong" /></p>
