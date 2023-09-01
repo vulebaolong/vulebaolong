@@ -7,7 +7,7 @@
     />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vũ Lê Bảo Long</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/vulebaolong">VU LE BAO LONG</a></h1>
 <h5 align="center">A passionate web developer from Viet Nam</h5>
 
 ## Profile Views:
@@ -22,8 +22,6 @@
         </td>
     </tr>
 </table>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vulebaolong&label=Profile%20views&color=0e75b6&style=flat" alt="vulebaolong" /> </p> -->
 
 ## What I'm Doing:
 
