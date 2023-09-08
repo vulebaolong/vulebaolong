@@ -39,12 +39,12 @@
 -   🌐 Personal website: **<a href="https://portfolio-vulebaolong.netlify.app/">vulebaolong</a>**
 -   📫 How to reach me **vulebaolong@gmail.com**
 -   ⚡ Fun fact **I think I am funny**
--   📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="blank">VI</a>**
+-   📄 Curriculum Vitae: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="_blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="_blank">VI</a>**
 
 ## Connect with me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/vulebaolong/" target="blank"
+    <a href="https://www.linkedin.com/in/vulebaolong/" target="_blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -52,7 +52,7 @@
             height="30"
             width="40"
     /></a>
-    <a href="https://www.facebook.com/profile.php?id=100073114167973" target="blank"
+    <a href="https://www.facebook.com/profile.php?id=100073114167973" target="_blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -60,7 +60,7 @@
             height="30"
             width="40"
     /></a>
-    <a href="https://instagram.com/vulebaolong/" target="blank"
+    <a href="https://instagram.com/vulebaolong/" target="_blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -81,25 +81,25 @@
 ## Top Respositorys:
 
 <p align="left">
-    <a target="blank" href="https://github.com/vulebaolong/L9-Learning_vulebaolong"
+    <a target="_blank" href="https://github.com/vulebaolong/L9-Learning_vulebaolong"
         ><img
             width="278"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9-Learning_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
-    <a target="blank" href="https://github.com/vulebaolong/L9_Learning_API_vulebaolong"
+    <a target="_blank" href="https://github.com/vulebaolong/L9_Learning_API_vulebaolong"
         ><img
             width="278"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9_Learning_API_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
-    <a target="blank" href="https://github.com/vulebaolong/BC44_REACTJS_43_Nhom9_Netflix/tree/vulebaolong_API_MOVIE"
+    <a target="_blank" href="https://github.com/vulebaolong/BC44_REACTJS_43_Nhom9_Netflix/tree/vulebaolong_API_MOVIE"
         ><img
             width="278"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=BC44_REACTJS_43_Nhom9_Netflix&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
-    <a target="blank" href="https://github.com/vulebaolong/Movie_API_vulebaolong"
+    <a target="_blank" href="https://github.com/vulebaolong/Movie_API_vulebaolong"
         ><img
             width="278"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=Movie_API_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
