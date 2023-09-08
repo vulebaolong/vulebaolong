@@ -109,24 +109,24 @@
 
 ## My Stats:
 
-<p align="center" id="My_Stats">
-    <a href="#My_Stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vulebaolong&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="vulebaolong" /></a>
+<p align="center">
+    <a href="#my-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vulebaolong&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="vulebaolong" /></a>
 </p>
 
 ## Activity On GitHub:
 
 <p align="center">
-    <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vulebaolong&&theme=tokyonight&hide_border=true" alt="vulebaolong" /></a>
+    <a href="#activity-on-github"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vulebaolong&&theme=tokyonight&hide_border=true" alt="vulebaolong" /></a>
 </p>
 
 ## Profile Trophy:
 
 <p align="center">
-    <a href="#"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vulebaolong&theme=tokyonight&no-frame=true&row=1&column=5&rank=-?" alt="vulebaolong" /></a>
+    <a href="#profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vulebaolong&theme=tokyonight&no-frame=true&row=1&column=5&rank=-?" alt="vulebaolong" /></a>
 </p>
 
 ## Most Used Languages:
 
 <p align="center">
-    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vulebaolong&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="vulebaolong" /></a>
+    <a href="#most-used-languages"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vulebaolong&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="vulebaolong" /></a>
 </p>
