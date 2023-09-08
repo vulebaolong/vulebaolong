@@ -81,25 +81,25 @@
 ## Top Respositorys:
 
 <p align="left">
-    <a href="https://github.com/vulebaolong/L9-Learning_vulebaolong"
+    <a target="blank" href="https://github.com/vulebaolong/L9-Learning_vulebaolong"
         ><img
             width="278"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9-Learning_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
-    <a href="https://github.com/vulebaolong/L9_Learning_API_vulebaolong"
+    <a target="blank" href="https://github.com/vulebaolong/L9_Learning_API_vulebaolong"
         ><img
             width="278"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9_Learning_API_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
-    <a href="https://github.com/vulebaolong/BC44_REACTJS_43_Nhom9_Netflix/tree/vulebaolong_API_MOVIE"
+    <a target="blank" href="https://github.com/vulebaolong/BC44_REACTJS_43_Nhom9_Netflix/tree/vulebaolong_API_MOVIE"
         ><img
             width="278"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=BC44_REACTJS_43_Nhom9_Netflix&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
             alt="github-readme-streak-stats"
     /></a>
-    <a href="https://github.com/vulebaolong/Movie_API_vulebaolong"
+    <a target="blank" href="https://github.com/vulebaolong/Movie_API_vulebaolong"
         ><img
             width="278"
             src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=Movie_API_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
