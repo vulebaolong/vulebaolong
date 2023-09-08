@@ -1,4 +1,4 @@
-[![MasterHead](./asset//1600_480.gif)](https://github.com/vulebaolong)
+[![MasterHead](./asset//banner_3.png)](https://portfolio-vulebaolong.netlify.app/)
 <!-- <p><img align="center"src="./asset//1600_480.gif"/></p> -->
 
 
@@ -9,7 +9,7 @@
     />
 </p>
 
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/vulebaolong">VU LE BAO LONG</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://portfolio-vulebaolong.netlify.app/">VU LE BAO LONG</a></h1>
 <h5 align="center">A passionate web developer from Viet Nam</h5>
 
 ## Profile Views:
