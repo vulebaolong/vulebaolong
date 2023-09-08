@@ -12,7 +12,7 @@
     />
 </p>
 
-<h1 align="center">Hi 👋, I'm <a href="https://portfolio-vulebaolong.netlify.app/">VU LE BAO LONG</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://portfolio-vulebaolong.netlify.app/" target="_blank">VU LE BAO LONG</a></h1>
 <h5 align="center">A passionate web developer from Viet Nam</h5>
 
 ## Profile Views:
