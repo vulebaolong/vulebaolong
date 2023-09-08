@@ -1,6 +1,5 @@
-[![MasterHead](./asset//banner_4.png)](https://portfolio-vulebaolong.netlify.app/)
-<!-- <p><img align="center"src="./asset//1600_480.gif"/></p> -->
-
+<!-- [![MasterHead](./asset//banner_4.png)](https://portfolio-vulebaolong.netlify.app/) -->
+<p><img align="center"src="./asset/banner_4.png"/></p>
 
 <p align="center">
     <img
