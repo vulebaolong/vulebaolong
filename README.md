@@ -1,15 +1,17 @@
 <!-- [![MasterHead](./asset//banner_4.png)](https://portfolio-vulebaolong.netlify.app/) -->
 <p>
-    <a target="_blank" rel="noopener noreferrer" href="#">
+    <a href="#">
         <img align="center"src="./asset/banner_4.png"/>
     </a>
 </p>
 
 <p align="center">
-    <img
-        align="center"
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F7A0&width=435&lines=2+%2B+years+of+coding+experience;Code+is+my+life&center=true&width=700&height=45&vCenter=true&pause=1000&size=25"
-    />
+    <a href="#">
+        <img
+            align="center"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F7A0&width=435&lines=2+%2B+years+of+coding+experience;Code+is+my+life&center=true&width=700&height=45&vCenter=true&pause=1000&size=25"
+        />
+    </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://portfolio-vulebaolong.netlify.app/" target="_blank">VU LE BAO LONG</a></h1>
