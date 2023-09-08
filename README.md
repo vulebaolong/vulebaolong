@@ -1,5 +1,9 @@
 <!-- [![MasterHead](./asset//banner_4.png)](https://portfolio-vulebaolong.netlify.app/) -->
-<p><img align="center"src="./asset/banner_4.png"/></p>
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://portfolio-vulebaolong.netlify.app/">
+        <img align="center"src="./asset/banner_4.png"/>
+    </a>
+</p>
 
 <p align="center">
     <img
