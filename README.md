@@ -44,30 +44,18 @@
 ## Connect with me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/vulebaolong/" target="_blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="www.linkedin.com/in/vulebaolong"
-            height="30"
-            width="40"
-    /></a>
-    <a href="https://www.facebook.com/profile.php?id=100073114167973" target="_blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="long long"
-            height="30"
-            width="40"
-    /></a>
-    <a href="https://instagram.com/vulebaolong/" target="_blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="vulebaolong/"
-            height="30"
-            width="40"
-    /></a>
+    <a target="_blank" href="https://zalo.me/0836789578">
+        <img src="./asset/zalo.svg" alt="zalo"/>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100073114167973" target="_blank">
+        <img src="./asset/facebook.svg" alt="facebook"/>
+    </a>
+    <a href="https://www.linkedin.com/in/vulebaolong/" target="_blank">
+        <img src="./asset/linkedin.svg" alt="linkedin"/>
+    </a>
+    <a href="https://instagram.com/vulebaolong/" target="_blank">
+        <img src="./asset/instagram.svg" alt="instagram"/>
+    </a>
 </p>
 
 ## Languages, Tools I Know:
