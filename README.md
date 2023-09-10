@@ -44,7 +44,7 @@
 ## Connect with me:
 
 <p align="left">
-    <a target="_blank" href="https://zalo.me/0836789578">
+    <a href="https://zalo.me/0836789578" target="_blank" >
         <img src="./asset/zalo.svg" alt="zalo"/>
     </a>
     <a href="https://www.facebook.com/profile.php?id=100073114167973" target="_blank">
