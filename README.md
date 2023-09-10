@@ -60,9 +60,24 @@
 
 ## Languages, Tools I Know:
 
+### Front-End
 <p align="left">
     <img
-        src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,react,vue,redux,js,tailwind,bootstrap,python,vite,postman,docker,figma,firebase,github,git,photoshop,premiere,sass,css,html"
+        src="https://skillicons.dev/icons?i=ts,react,vue,redux,js,tailwind,bootstrap,sass,css,html"
+    />
+</p>
+
+### Back-End
+<p align="left">
+    <img
+        src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,js,python,docker,firebase"
+    />
+</p>
+
+### Tool and ...
+<p align="left">
+    <img
+        src="https://skillicons.dev/icons?i=postman,figma,github,git,photoshop,premiere"
     />
 </p>
 
