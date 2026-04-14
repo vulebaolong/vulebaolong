@@ -9,7 +9,7 @@
     <a href="#">
         <img
             align="center"
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F7A0&width=435&lines=2+%2B+years+of+coding+experience;Code+is+my+life&center=true&width=700&height=45&vCenter=true&pause=1000&size=25"
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F7A0&width=435&lines=2+%4B+years+of+coding+experience;Code+is+my+life&center=true&width=700&height=45&vCenter=true&pause=1000&size=25"
         />
     </a>
 </p>
