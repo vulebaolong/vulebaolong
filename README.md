@@ -38,7 +38,7 @@
 -   💬 Ask me about **MERN**
 -   🌐 Personal website: **<a href="https://portfolio-vulebaolong.netlify.app/">vulebaolong</a>**
 -   📫 How to reach me **vulebaolong@gmail.com**
--   📄 My CV: **<a href="https://drive.google.com/file/d/1kjlBbByUWDnSdj5kQHL57gK18BIuO7MO/view?usp=sharing" target="_blank">EN</a>** / **<a href="https://drive.google.com/file/d/13WdHdKnUnZgW3oqoqyjTnP_RXrZNFmLS/view?usp=sharing" target="_blank">VI</a>**
+-   📄 My CV: **<a href="https://drive.google.com/file/d/1okLI-VTKANF5FPMXldYVFYkKKGC5Fn0j/view?usp=sharing" target="_blank">EN</a>** 
 -   ⚡ Fun fact **I think I am funny**
 
 ## Connect with me:
