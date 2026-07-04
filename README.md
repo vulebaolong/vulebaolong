@@ -1,7 +1,7 @@
 <!-- [![MasterHead](./asset//banner_4.png)](https://portfolio-vulebaolong.netlify.app/) -->
 <p>
     <a href="#">
-        <img align="center"src="./asset/banner_4.png"/>
+        <img align="center"src="./asset/banner_4_1.png"/>
     </a>
 </p>
 
@@ -14,8 +14,16 @@
     </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm <a href="https://portfolio-vulebaolong.netlify.app/" target="_blank">VU LE BAO LONG</a></h1>
-<h5 align="center">A passionate web developer from Viet Nam</h5>
+<h1 align="center">Hi, I'm Vu Le Bao Long 👋</h1>
+
+<h3 align="center">
+  Software Engineer | Go Backend & Full-Stack Developer
+</h3>
+
+<p align="center">
+  I build production-ready web applications, backend services,
+  AI/RAG systems, and real-time trading tools.
+</p>
 
 ## Profile Views:
 
@@ -30,85 +38,93 @@
     </tr>
 </table>
 
-## What I'm Doing:
+## About Me
 
-<img align="right" width="400" src="./asset/item4_4.gif" alt="coding" />
+I am a Software Engineer with **3+ years of experience** building full-stack products with **Go, TypeScript, React, Next.js, and NestJS**.
 
--   🌱 I’m currently learning **BackEnd Developer**
--   💬 Ask me about **MERN**
--   🌐 Personal website: **<a href="https://portfolio-vulebaolong.netlify.app/">vulebaolong</a>**
--   📫 How to reach me **vulebaolong@gmail.com**
--   📄 My CV: **<a href="https://drive.google.com/file/d/1okLI-VTKANF5FPMXldYVFYkKKGC5Fn0j/view?usp=sharing" target="_blank">EN</a>** 
--   ⚡ Fun fact **I think I am funny**
+My experience includes:
+
+- Building backend services and REST APIs with Go and Node.js
+- Developing admin dashboards and user-facing web applications
+- Designing authentication, authorization, referral, and points systems
+- Building AI chatbots with RAG, streaming responses, and Elasticsearch
+- Developing real-time systems with WebSocket and Socket.IO
+- Deploying applications with Docker, GitHub Actions, AWS EC2, and Nginx
+- Supporting products from development to production
+
+I am currently focused on **Go Backend** and **Full-Stack Software Engineer** opportunities.
 
 ## Connect with me:
 
+- 🌐 Portfolio: [vulebaolong.com](https://vulebaolong.com)
+- 📫 Email: [vulebaolong@gmail.com](mailto:vulebaolong@gmail.com)
+- 📄 CV: [View my CV](https://drive.google.com/file/d/1okLI-VTKANF5FPMXldYVFYkKKGC5Fn0j/view)
+- 💼 LinkedIn: [linkedin.com/in/vulebaolong](https://www.linkedin.com/in/vulebaolong/)
+- 💬 Zalo: [0931886313](https://zalo.me/0931886313)
+- 👤 Facebook: [Vu Le Bao Long](https://www.facebook.com/profile.php?id=100073114167973)
+- 📷 Instagram: [@vulebaolong](https://instagram.com/vulebaolong/)
+
+## Languages & Technologies
+
+### Languages
+
 <p align="left">
-    <a href="https://zalo.me/0836789578" target="_blank" >
-        <img src="./asset/zalo.svg" alt="zalo"/>
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100073114167973" target="_blank">
-        <img src="./asset/facebook.svg" alt="facebook"/>
-    </a>
-    <a href="https://www.linkedin.com/in/vulebaolong/" target="_blank">
-        <img src="./asset/linkedin.svg" alt="linkedin"/>
-    </a>
-    <a href="https://instagram.com/vulebaolong/" target="_blank">
-        <img src="./asset/instagram.svg" alt="instagram"/>
-    </a>
+    <img src="https://skillicons.dev/icons?i=go,ts,js" />
 </p>
 
-## Languages, Tools I Know:
+### Front-End & Desktop
 
-### Front-End
 <p align="left">
     <img
-        src="https://skillicons.dev/icons?i=ts,react,vue,redux,js,tailwind,bootstrap,sass,css,html"
+        src="https://skillicons.dev/icons?i=react,nextjs,electron,redux,tailwind,materialui,vite"
     />
 </p>
+
+`React` · `Next.js` · `Electron` · `TypeScript` · `Redux Toolkit` · `TanStack Query` · `Tailwind CSS` · `Ant Design` · `Material UI` · `Mantine` · `ShadCN UI`
 
 ### Back-End
+
 <p align="left">
     <img
-        src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,js,python,docker,firebase"
+        src="https://skillicons.dev/icons?i=go,nodejs,nestjs,express,prisma"
     />
 </p>
 
-### Tool and ...
+`Go` · `Gin` · `Go Kratos` · `Ent` · `Atlas` · `Node.js` · `NestJS` · `Express` · `Prisma` · `REST API` · `OpenAPI` · `JWT` · `OAuth2` · `RBAC`
+
+### Real-Time, Messaging & Search
+
 <p align="left">
     <img
-        src="https://skillicons.dev/icons?i=postman,figma,github,git,photoshop,premiere"
+        src="https://skillicons.dev/icons?i=redis,rabbitmq,elasticsearch"
     />
 </p>
 
-## Top Respositorys:
+`WebSocket` · `Socket.IO` · `SignalR` · `Redis` · `RabbitMQ` · `Elasticsearch` · `Kibana`
+
+### Databases
 
 <p align="left">
-    <a target="_blank" href="https://github.com/vulebaolong/L9-Learning_vulebaolong"
-        ><img
-            width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9-Learning_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="github-readme-streak-stats"
-    /></a>
-    <a target="_blank" href="https://github.com/vulebaolong/L9_Learning_API_vulebaolong"
-        ><img
-            width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=L9_Learning_API_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="github-readme-streak-stats"
-    /></a>
-    <a target="_blank" href="https://github.com/vulebaolong/BC44_REACTJS_43_Nhom9_Netflix/tree/vulebaolong_API_MOVIE"
-        ><img
-            width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=BC44_REACTJS_43_Nhom9_Netflix&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="github-readme-streak-stats"
-    /></a>
-    <a target="_blank" href="https://github.com/vulebaolong/Movie_API_vulebaolong"
-        ><img
-            width="278"
-            src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vulebaolong&repo=Movie_API_vulebaolong&theme=react&bg_color=1F222E&title_color=11F7A0&hide_border=true&icon_color=F8D866&show_icons=false"
-            alt="github-readme-streak-stats"
-    /></a>
+    <img
+        src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"
+    />
 </p>
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Firebase`
+
+### DevOps & Tools
+
+<p align="left">
+    <img
+        src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,jenkins,linux,git,github,postman"
+    />
+</p>
+
+`Docker` · `Docker Compose` · `GitHub Actions` · `Jenkins` · `AWS EC2` · `Nginx` · `Linux` · `Git` · `Postman`
+
+### Other Technologies
+
+`OpenAI API` · `RAG` · `Ethers.js` · `Phaser` · `TradingView Charting Library` · `Chrome Extension API`
 
 ## My Stats:
 
