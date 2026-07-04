@@ -125,3 +125,48 @@ I am currently focused on **Go Backend** and **Full-Stack Software Engineer** op
 ### Other Technologies
 
 `OpenAI API` · `RAG` · `Ethers.js` · `Phaser` · `TradingView Charting Library` · `Chrome Extension API`
+
+## Education
+
+<table width="100%">
+    <tr>
+        <td width="180" height="80" align="center" valign="middle">
+            <img
+                src="./asset/uit-logo.png"
+                alt="UIT Logo"
+                width="95"
+            />
+        </td>
+        <td valign="middle">
+            <strong>University of Information Technology — VNUHCM (UIT)</strong>
+            <br />
+            <strong>Bachelor of Science in Information Technology</strong>
+            <br />
+            <sub>Ho Chi Minh City, Vietnam</sub>
+        </td>
+    </tr>
+    <tr>
+        <td width="180" height="80" align="center" valign="middle">
+            <img
+                src="./asset/hiu-logo.png"
+                alt="Hong Bang International University Logo"
+                width="145"
+            />
+        </td>
+        <td valign="middle">
+            <strong>Hong Bang International University (HIU)</strong>
+            <br />
+            <strong>Bachelor of Pharmacy</strong>
+            <br />
+            <sub>Ho Chi Minh City, Vietnam</sub>
+        </td>
+    </tr>
+</table>
+
+---
+
+## Certifications
+
+- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/certificate/UC-d1a1187f-a92e-41ca-85bd-2644aac70191/)
+- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/certificate/UC-48949a43-a312-46e5-bfa9-412197951b45/)
+- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/certificate/UC-e3493e49-be8a-4233-be46-6e7b6130e892/)
