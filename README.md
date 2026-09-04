@@ -153,13 +153,6 @@ I am currently focused on **Go Backend** and **Full-Stack Software Engineer** op
                 width="145"
             />
         </td>
-        <td valign="middle">
-            <strong>Hong Bang International University (HIU)</strong>
-            <br />
-            <strong>Bachelor of Pharmacy</strong>
-            <br />
-            <sub>Ho Chi Minh City, Vietnam</sub>
-        </td>
     </tr>
 </table>
 
