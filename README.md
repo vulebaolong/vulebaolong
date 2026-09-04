@@ -145,15 +145,6 @@ I am currently focused on **Go Backend** and **Full-Stack Software Engineer** op
             <sub>Ho Chi Minh City, Vietnam</sub>
         </td>
     </tr>
-    <tr>
-        <td width="180" height="80" align="center" valign="middle">
-            <img
-                src="./asset/hiu-logo.png"
-                alt="Hong Bang International University Logo"
-                width="145"
-            />
-        </td>
-    </tr>
 </table>
 
 ---
