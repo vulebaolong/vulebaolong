@@ -40,7 +40,7 @@
 
 ## About Me
 
-I am a Software Engineer with **3+ years of experience** building full-stack products with **Go, TypeScript, React, Next.js, and NestJS**.
+I am a Software Engineer with **5+ years of experience** building full-stack products with **Go, TypeScript, React, Next.js, and NestJS**.
 
 My experience includes:
 
