@@ -1,156 +1,128 @@
-<!-- [![MasterHead](./asset//banner_4.png)](https://portfolio-vulebaolong.netlify.app/) -->
-<p>
-    <a href="#">
-        <img align="center"src="./asset/banner_4_1.png"/>
-    </a>
-</p>
+<a href="https://www.vulebaolong.com">
+  <picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/cyberpunk-banner-mobile-static.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cyberpunk-banner-static.svg" />
+  <source media="(max-width: 600px)" srcset="./assets/cyberpunk-banner-mobile.svg" />
+  <img src="./assets/cyberpunk-banner.svg" width="100%" alt="Vu Le Bao Long — Go Backend & Full-Stack Engineer, Ho Chi Minh City, Vietnam" />
+</picture>
+</a>
 
 <p align="center">
-    <a href="#">
-        <img
-            align="center"
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F7A0&width=435&lines=5+%2B+years+of+coding+experience;Code+is+my+life&center=true&width=700&height=45&vCenter=true&pause=1000&size=25"
-        />
-    </a>
+  <a href="https://www.vulebaolong.com"><img src="./assets/link-portfolio.svg" height="36" alt="Portfolio" /></a>
+  <a href="mailto:vulebaolong@gmail.com"><img src="./assets/link-email.svg" height="36" alt="Email Vu Le Bao Long" /></a>
+  <a href="https://www.linkedin.com/in/vulebaolong/"><img src="./assets/link-linkedin.svg" height="36" alt="LinkedIn" /></a>
+  <a href="https://drive.google.com/file/d/1okLI-VTKANF5FPMXldYVFYkKKGC5Fn0j/view"><img src="./assets/link-resume.svg" height="36" alt="Read my CV" /></a>
 </p>
 
-<h1 align="center">Hi, I'm Vu Le Bao Long 👋</h1>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/section-about-mobile.svg" />
+  <img src="./assets/section-about.svg" width="100%" alt="01 — Engineer profile" />
+</picture>
 
-<h3 align="center">
-  Software Engineer | Go Backend & Full-Stack Developer
-</h3>
+I'm **Vu Le Bao Long**, a software engineer in **Ho Chi Minh City, Vietnam**, with **5+ years of experience** delivering software from development through production. My focus is **Go backend engineering**: APIs, microservices, real-time systems, and AI-powered products.
 
-<p align="center">
-  I build production-ready web applications, backend services,
-  AI/RAG systems, and real-time trading tools.
-</p>
+- **Backend:** Go services with Gin and Kratos, REST/gRPC APIs, authentication, and data workflows.
+- **Real-time & AI:** streaming chat, retrieval-augmented generation, WebSocket feeds, and market data processing.
+- **Delivery:** database migrations, Docker, CI/CD, deployment, and production support.
+- **Across the stack:** React, Next.js, and TypeScript to bring the complete product to users.
 
-## Profile Views:
+**Open to Go Backend and Full-Stack Software Engineer opportunities.**
+
+<br />
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/section-projects-mobile.svg" />
+  <img src="./assets/section-projects.svg" width="100%" alt="02 — Selected work" />
+</picture>
+
+Go-powered products first, followed by tools I build to ship and operate software.
 
 <table>
-    <tr>
-        <th>Total Count</th>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/vulebaolong"> <img src="https://komarev.com/ghpvc/?username=vulebaolong&style=for-the-badge&color=brightgreen" /> </a>
-        </td>
-    </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://predixpro.io/"><img src="./assets/project-predix.svg" width="100%" alt="PrediX — Go microservices for prediction markets, rewards, and community" /></a>
+      <p><strong><a href="https://predixpro.io/">PrediX</a> · Go / Full-stack Engineer</strong></p>
+      <p>Built Go microservices for points, referrals, battle events, and AI support, alongside customer, admin, and ambassador applications.</p>
+      <ul>
+        <li>REST/gRPC APIs, reward missions, and leaderboards.</li>
+        <li>OpenAI-powered RAG and streaming chat with pgvector.</li>
+        <li>Database migrations, Docker, and GitHub Actions delivery.</li>
+      </ul>
+      <p><code>Go</code> <code>Gin</code> <code>Kratos</code> <code>gRPC</code> <code>PostgreSQL</code> <code>Redis</code> <code>pgvector</code></p>
+      <p><a href="https://predixpro.io/">Visit product ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://megapro.co/"><img src="./assets/project-megapro.svg" width="100%" alt="MegaPro — Go services for AI support and real-time crypto analytics" /></a>
+      <p><strong><a href="https://megapro.co/">MegaPro</a> · Go / Full-stack Engineer</strong></p>
+      <p>Owned Go services for an AI support assistant and real-time crypto charting, from knowledge retrieval to indicator processing.</p>
+      <ul>
+        <li>Elasticsearch RAG, conversation memory, and streaming responses.</li>
+        <li>WebSocket charts and custom trading indicators.</li>
+        <li>Knowledge management, feedback, and production operations.</li>
+      </ul>
+      <p><code>Go</code> <code>Gin</code> <code>Elasticsearch</code> <code>OpenAI</code> <code>MySQL</code> <code>Redis</code> <code>WebSocket</code></p>
+      <p><a href="https://megapro.co/">Visit product ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vulebaolong/deploy-kit"><img src="./assets/project-deploy-kit.svg" width="100%" alt="deploy-kit — Go CLI for Docker builds and deployment over SSH" /></a>
+      <p><strong><a href="https://github.com/vulebaolong/deploy-kit">deploy-kit</a> · Public repository</strong></p>
+      <p>A Go CLI that reads YAML project configuration, builds Docker images, transfers them over SSH, and runs Docker Compose on the target server.</p>
+      <p><code>Go</code> <code>YAML</code> <code>Docker</code> <code>SSH</code> <code>Docker Compose</code></p>
+      <p><a href="https://github.com/vulebaolong/deploy-kit">Explore source ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/vulebaolong/observability-stack"><img src="./assets/project-observability.svg" width="100%" alt="observability-stack — Container log collection with Alloy, Loki, and Grafana" /></a>
+      <p><strong><a href="https://github.com/vulebaolong/observability-stack">observability-stack</a> · Public repository</strong></p>
+      <p>A container logging stack with Docker service discovery, Alloy log collection and relabeling, Loki storage, and Grafana for exploring logs.</p>
+      <p><code>Grafana</code> <code>Loki</code> <code>Alloy</code> <code>Docker Compose</code></p>
+      <p><a href="https://github.com/vulebaolong/observability-stack">Explore source ↗</a></p>
+    </td>
+  </tr>
 </table>
 
-## About Me
+<p><sub>PrediX and MegaPro are professional work; links lead to the products. More work, including MegaTrade, CoinCraze, and Tabbicus, is on my <a href="https://www.vulebaolong.com/#work">portfolio</a>.</sub></p>
 
-I am a Software Engineer with **5+ years of experience** building full-stack products with **Go, TypeScript, React, Next.js, and NestJS**.
+<br />
 
-My experience includes:
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/section-stack-mobile.svg" />
+  <img src="./assets/section-stack.svg" width="100%" alt="03 — Tech stack" />
+</picture>
 
-- Building backend services and REST APIs with Go and Node.js
-- Developing admin dashboards and user-facing web applications
-- Designing authentication, authorization, referral, and points systems
-- Building AI chatbots with RAG, streaming responses, and Elasticsearch
-- Developing real-time systems with WebSocket and Socket.IO
-- Deploying applications with Docker, GitHub Actions, AWS EC2, and Nginx
-- Supporting products from development to production
+| Layer | Technologies |
+| :--- | :--- |
+| **Go backend** | **Go · Gin · Kratos · Go-Zero · Ent · REST · gRPC** |
+| **Data & messaging** | PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ |
+| **AI & real-time** | OpenAI · RAG · pgvector · Elasticsearch · WebSocket |
+| **Infrastructure** | Docker · Kubernetes · GitHub Actions · AWS EC2 · Nginx |
+| **Observability** | Grafana · Prometheus · Loki · Alloy |
+| **Product interfaces** | TypeScript · React · Next.js · Electron · NestJS |
 
-I am currently focused on **Go Backend** and **Full-Stack Software Engineer** opportunities.
+<details>
+  <summary><strong>Experience & education</strong></summary>
 
-## Connect with me:
+- **SPLabs — Software Engineer:** Go services, full-stack products, AI support systems, and real-time infrastructure for blockchain and crypto products.
+- **GoFarm — Software Engineer:** employee management features, reusable interfaces, forms, validation, and backend API integrations.
+- **University of Information Technology — VNUHCM (UIT):** Bachelor's degree in Information Technology.
+- Full experience and certifications: [CV](https://drive.google.com/file/d/1okLI-VTKANF5FPMXldYVFYkKKGC5Fn0j/view) · [Portfolio](https://www.vulebaolong.com).
 
-- 🌐 Portfolio: [vulebaolong.com](https://vulebaolong.com)
-- 📫 Email: [vulebaolong@gmail.com](mailto:vulebaolong@gmail.com)
-- 📄 CV: [View my CV](https://drive.google.com/file/d/1okLI-VTKANF5FPMXldYVFYkKKGC5Fn0j/view)
-- 💼 LinkedIn: [linkedin.com/in/vulebaolong](https://www.linkedin.com/in/vulebaolong/)
-- 💬 Zalo: [0931886313](https://zalo.me/0931886313)
-- 👤 Facebook: [Vu Le Bao Long](https://www.facebook.com/profile.php?id=100073114167973)
-- 📷 Instagram: [@vulebaolong](https://instagram.com/vulebaolong/)
+</details>
 
-## Languages & Technologies
+<br />
 
-### Languages
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/section-activity-mobile.svg" />
+  <img src="./assets/section-activity.svg" width="100%" alt="04 — Contribution signal" />
+</picture>
 
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=go,ts,js" />
-</p>
+<a href="https://github.com/vulebaolong?tab=overview">
+  <img src="./assets/generated/contribution-snake.svg" width="100%" alt="Animated snake tracing Vu Le Bao Long's GitHub contribution calendar in cyan and magenta" />
+</a>
 
-### Front-End & Desktop
+<p align="center"><sub>Contribution calendar · refreshed daily with GitHub Actions</sub></p>
 
-<p align="left">
-    <img
-        src="https://skillicons.dev/icons?i=react,nextjs,electron,redux,tailwind,materialui,vite"
-    />
-</p>
+<br />
 
-`React` · `Next.js` · `Electron` · `TypeScript` · `Redux Toolkit` · `TanStack Query` · `Tailwind CSS` · `Ant Design` · `Material UI` · `Mantine` · `ShadCN UI`
-
-### Back-End
-
-<p align="left">
-    <img
-        src="https://skillicons.dev/icons?i=go,nodejs,nestjs,express,prisma"
-    />
-</p>
-
-`Go` · `Gin` · `Go Kratos` · `Ent` · `Atlas` · `Node.js` · `NestJS` · `Express` · `Prisma` · `REST API` · `OpenAPI` · `JWT` · `OAuth2` · `RBAC`
-
-### Real-Time, Messaging & Search
-
-<p align="left">
-    <img
-        src="https://skillicons.dev/icons?i=redis,rabbitmq,elasticsearch"
-    />
-</p>
-
-`WebSocket` · `Socket.IO` · `SignalR` · `Redis` · `RabbitMQ` · `Elasticsearch` · `Kibana`
-
-### Databases
-
-<p align="left">
-    <img
-        src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase"
-    />
-</p>
-
-`PostgreSQL` · `MySQL` · `MongoDB` · `Firebase`
-
-### DevOps & Tools
-
-<p align="left">
-    <img
-        src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,jenkins,linux,git,github,postman"
-    />
-</p>
-
-`Docker` · `Docker Compose` · `GitHub Actions` · `Jenkins` · `AWS EC2` · `Nginx` · `Linux` · `Git` · `Postman`
-
-### Other Technologies
-
-`OpenAI API` · `RAG` · `Ethers.js` · `Phaser` · `TradingView Charting Library` · `Chrome Extension API`
-
-## Education
-
-<table width="100%">
-    <tr>
-        <td width="180" height="80" align="center" valign="middle">
-            <img
-                src="./asset/uit-logo.png"
-                alt="UIT Logo"
-                width="95"
-            />
-        </td>
-        <td valign="middle">
-            <strong>University of Information Technology — VNUHCM (UIT)</strong>
-            <br />
-            <strong>Bachelor of Science in Information Technology</strong>
-            <br />
-            <sub>Ho Chi Minh City, Vietnam</sub>
-        </td>
-    </tr>
-</table>
-
----
-
-## Certifications
-
-- [Node.js, Express, MongoDB & More: The Complete Bootcamp 2023](https://www.udemy.com/certificate/UC-d1a1187f-a92e-41ca-85bd-2644aac70191/)
-- [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/certificate/UC-48949a43-a312-46e5-bfa9-412197951b45/)
-- [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/certificate/UC-e3493e49-be8a-4233-be46-6e7b6130e892/)
+<a href="mailto:vulebaolong@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Let's build something that works in the real world. Contact vulebaolong@gmail.com" /></a>

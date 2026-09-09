@@ -1,0 +1,50 @@
+name: Refresh contribution signal
+
+on:
+  schedule:
+    - cron: "23 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-activity.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  contribution-snake:
+    if: github.repository == 'vulebaolong/vulebaolong'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+
+      - name: Generate neon contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: vulebaolong
+          outputs: |
+            assets/generated/contribution-snake.svg?color_snake=#ff4fa3&color_dots=#182238,#163b53,#176b83,#21b2c1,#56f4ff
+
+      - name: Save updated artwork
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated/contribution-snake.svg
+          if git diff --cached --quiet; then
+            echo "Contribution artwork is already up to date."
+            exit 0
+          fi
+          git commit -m "chore: refresh contribution signal"
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="36" viewBox="0 0 144 36" role="img" aria-labelledby="title">
+<title id="title">EMAIL ↗</title>
+<defs><style>text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace} .display{font-family:Arial,Helvetica,sans-serif;font-weight:800}</style></defs>
+<rect x=".5" y=".5" width="143" height="35" rx="3" fill="#101525" stroke="#34405b"/><path d="M1 1H33" stroke="#ff4fa3" stroke-width="2"/><text x="72" y="23" fill="#eff6ff" font-size="12" text-anchor="middle" letter-spacing="1">EMAIL ↗</text>
+</svg>
